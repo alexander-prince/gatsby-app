@@ -45,3 +45,10 @@ a {
   font-weight: 700;
   text-transform: uppercase;
 }
+
+.Header a {
+  color: #875999;
+  font-size: 20px;
+  padding-left: 10px;
+  position: center;
+}
